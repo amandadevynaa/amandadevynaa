@@ -1,11 +1,10 @@
-# Hi there 👋
+<div align="center">
+  
+# 👋 Hi, Saya Amanda Devyna!
 
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img src="https://i.imgflip.com/65efzo.gif" width="300" />
 
-### Saya Amanda Devyna
-💻 Mahasiswa Informatika | 🌱 Belajar Web Development
+### 💫 Passionate Developer | Creative Coder | Tech Enthusiast
 
-Senang belajar hal baru dan membuat project yang bermanfaat!
-
-<br clear="left"/>
+</div>
 <img src="https://raw.githubusercontent.com/amandadevynaa/amandadevynaa/output/snake.svg" alt="Snake animation" />
