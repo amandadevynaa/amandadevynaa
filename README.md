@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi there 👋
+<img align="left" height="150" src="https://i.imgur.com/your-image.png" />
+Saya Amanda Devyna
+💻 Mahasiswa Informatika | 🌱 Belajar Web Development
+Senang belajar hal baru dan membuat project yang bermanfaat!
+<br clear="left"/>
 <img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <img src="https://raw.githubusercontent.com/amandadevynaa/amandadevynaa/output/snake.svg" alt="Snake animation" />
