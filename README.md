@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi, Saya Amanda Devyna!
+# 👋 Hi, Saya Amanda Devyana!
 
-<img src="https://i.imgflip.com/65efzo.gif" width="300" />
+<img src="https://i.imgflip.com/65efzo.gif" width="200" />
 
 ### 💫 Passionate Developer | Creative Coder | Tech Enthusiast
 
